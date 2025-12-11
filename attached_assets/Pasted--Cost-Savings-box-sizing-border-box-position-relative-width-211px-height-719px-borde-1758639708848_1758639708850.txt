@@ -1,0 +1,200 @@
+/* Cost Savings */
+
+box-sizing: border-box;
+
+position: relative;
+width: 211px;
+height: 719px;
+
+border: 0.75px dashed #9747FF;
+border-radius: 3.75px;
+
+
+/* Property 1=Default */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+isolation: isolate;
+
+position: absolute;
+width: 138px;
+height: 191px;
+left: 37px;
+top: 16px;
+
+
+
+/* Ellipse 5 */
+
+width: 138px;
+height: 138px;
+
+background: #2C2656;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Immediate Cost Savings */
+
+width: 138px;
+height: 33px;
+
+font-family: 'Parkinsans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #2C2656;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+z-index: 1;
+
+
+/* solar:wallet-money-bold */
+
+position: absolute;
+width: 79.5px;
+height: 79.5px;
+left: 29.25px;
+top: 27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.76%;
+right: 8.34%;
+top: 41.07%;
+bottom: 28.57%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 14.77%;
+top: 20.83%;
+bottom: 8.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.4%;
+right: 36.52%;
+top: 8.33%;
+bottom: 83.2%;
+
+background: #FFFFFF;
+
+
+/* Property 1=Variant2 */
+
+position: absolute;
+width: 138px;
+height: 190px;
+left: 37px;
+top: 381px;
+
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 165px;
+height: 165px;
+left: -14px;
+top: -27px;
+
+background: #FFFFFF;
+
+
+/* solar:wallet-money-bold */
+
+position: absolute;
+width: 105px;
+height: 105px;
+left: 16.5px;
+top: 0.75px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 67.14%;
+right: -0.05%;
+top: 41.07%;
+bottom: 28.57%;
+
+background: #2C2656;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 14.77%;
+top: 20.83%;
+bottom: 8.33%;
+
+background: #2C2656;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.14%;
+right: 36.43%;
+top: -2.14%;
+bottom: 82.86%;
+
+background: #2C2656;
+
+
+/* Immediate Cost Savings */
+
+position: absolute;
+width: 138px;
+height: 33px;
+left: 0px;
+top: 158px;
+
+font-family: 'Parkinsans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #2C2656;
+
